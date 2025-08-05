@@ -2,14 +2,6 @@
 
 A simple UNIX shell written in C, supporting basic command execution, built-in commands, and background job control.
 
-## Repository Name
-
-**nyush**
-
-## Short Description
-
-nyush is a minimal command-line interpreter that parses input, executes programs, handles built-in commands like `cd` and `exit`, and manages background processes with `&`.
-
 ## Contents
 
 - **nyush.c**: Main source file implementing the shell loop, parsing, and execution logic.
